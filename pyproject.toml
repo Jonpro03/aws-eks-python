@@ -27,7 +27,7 @@ spark = [
     "pyspark>=3.0.0"
 ]
 test = [
-    "bandit[toml]==1.7.10",
+    "bandit[toml]==1.8.0",
     "ruff==v0.8.0",
     "check-manifest==0.50",
     "pre-commit==4.0.1",
